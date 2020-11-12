@@ -5,4 +5,8 @@ hey
 hello
 hii
 change1
+<<<<<<< HEAD
 change2
+=======
+change3
+>>>>>>> dev2
